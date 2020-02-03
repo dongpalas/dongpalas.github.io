@@ -1,6 +1,6 @@
 [
 {
-	"uri": "http://example.org/en/categories/",
+	"uri": "https://dongpalas.github.io/en/categories/",
 	"title": "Categories",
 	"tags": [],
 	"categories": [],
@@ -9,7 +9,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/en/",
+	"uri": "https://dongpalas.github.io/en/",
 	"title": "Hugo Zzo Theme",
 	"tags": [],
 	"categories": [],
@@ -18,7 +18,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/en/series/",
+	"uri": "https://dongpalas.github.io/en/series/",
 	"title": "Series",
 	"tags": [],
 	"categories": [],
@@ -27,7 +27,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/en/tags/",
+	"uri": "https://dongpalas.github.io/en/tags/",
 	"title": "Tags",
 	"tags": [],
 	"categories": [],
