@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dongpalas.github.io/en/posts/csharp-default-extension-function/</loc>
+    <lastmod>2020-02-11T09:38:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dongpalas.github.io/en/</loc>
+    <lastmod>2020-02-11T09:38:05+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://dongpalas.github.io/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dongpalas.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://dongpalas.github.io/en/posts/</loc>
+    <lastmod>2020-02-11T09:38:05+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://dongpalas.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,20 +38,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://dongpalas.github.io/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://dongpalas.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://dongpalas.github.io/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://dongpalas.github.io/en/"
                 />
   </url>
   
