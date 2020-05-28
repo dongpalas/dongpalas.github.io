@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Zzo Theme</title>
+    <title>dongpal&#39;s home</title>
     <link>https://dongpalas.github.io/en/</link>
-    <description>Recent content on Hugo Zzo Theme</description>
+    <description>Recent content on dongpal&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>dongpert@gmail.com (dongwon)</managingEditor>
+    <webMaster>dongpert@gmail.com (dongwon)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 11 Feb 2020 09:38:05 +0900</lastBuildDate>
     
@@ -20,9 +20,18 @@
         <title>Csharp Default Extension Function</title>
         <link>https://dongpalas.github.io/en/posts/csharp-default-extension-function/</link>
         <pubDate>Tue, 11 Feb 2020 09:38:05 +0900</pubDate>
-        <author>zzossig@gmail.com (zzossig)</author>
+        <author>dongpert@gmail.com (dongwon)</author>
         <guid>https://dongpalas.github.io/en/posts/csharp-default-extension-function/</guid>
         <description>형변환 확장 함수 public static class ExtensionMethods { public static int ToInt(this string value, int defaultInteger = 0) { try { if (int.TryParse(value, out int validInteger)) return validInteger; else return defaultInteger; } catch { return defaultInteger; } } public static decimal ToDecimal(this string value, decimal defaultDecimal = 0.0M) { try { if (decimal.TryParse(value, out decimal validDecimal)) return validDecimal; else return defaultDecimal; } catch { return defaultDecimal;</description>
+      </item>
+      
+      <item>
+        <title>Using in Out Ref With Parameters</title>
+        <link>https://dongpalas.github.io/en/posts/using-in-out-ref-with-parameters/</link>
+        <pubDate>Wed, 05 Feb 2020 17:08:11 +0900</pubDate>
+        <author>dongpert@gmail.com (dongwon)</author>
+        <guid>https://dongpalas.github.io/en/posts/using-in-out-ref-with-parameters/</guid>
+        <description>The in, ref, and out Modifiers ref는 메서드에 의해 수정될 수 있음을 명시하는데 사용된다. in은 메서드에 의해 수정될 수 없음을 명시하는데 사용된다. out은 메서드에 의해 수</description>
       </item>
       
     

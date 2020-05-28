@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Zzo Theme</title>
+    <title>Categories on dongpal&#39;s home</title>
     <link>https://dongpalas.github.io/en/categories/</link>
-    <description>Recent content in Categories on Hugo Zzo Theme</description>
+    <description>Recent content in Categories on dongpal&#39;s home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>zzossig@gmail.com (zzossig)</managingEditor>
-    <webMaster>zzossig@gmail.com (zzossig)</webMaster>
+    <managingEditor>dongpert@gmail.com (dongwon)</managingEditor>
+    <webMaster>dongpert@gmail.com (dongwon)</webMaster>
     <copyright>©{year}, All Rights Reserved</copyright>
     
         <atom:link href="https://dongpalas.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
